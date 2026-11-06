@@ -1,7 +1,9 @@
 <p align="center">
   <img src="./banner.svg" width="100%" alt="Võ Nguyễn Minh Long. Around a search node, linked cards show a video frame with a detection box on a small figure, a photo, an audio waveform and a document with one highlighted passage.">
 </p>
-
+<p align="center"><img src="./legalqa-banner.svg" width="100%" alt="Legal QA"></p>
+<p align="center"><img src="./legalir-banner.svg" width="100%" alt="Legal IR"></p>
+<p align="center"><img src="./aicity-banner.svg" width="100%" alt="AI City Challenge 2026 Track 2"></p>
 I'm a student at the University of Information Technology (UIT), VNU-HCM, learning computer vision, especially multimedia retrieval, and retrieval-augmented generation (RAG).
 
 ### Highlights
